@@ -1,4 +1,4 @@
-# Intro to Hashes Lab
+ve # Intro to Hashes Lab
 
 ## Objectives
 
